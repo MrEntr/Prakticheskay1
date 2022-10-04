@@ -1,0 +1,14 @@
+
+if (c > d)
+{
+    Console.WriteLine(c);
+}
+else if (c < d)
+{
+    Console.WriteLine(d + 8);
+}
+else
+{
+    Console.WriteLine(c);
+    Console.WriteLine(d);   
+}

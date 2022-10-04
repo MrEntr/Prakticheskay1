@@ -1,0 +1,15 @@
+C:\Users\Entr\source\repos\Практическая1\Практическая1\bin\Debug\net6.0\Практическая1.exe
+C:\Users\Entr\source\repos\Практическая1\Практическая1\bin\Debug\net6.0\Практическая1.deps.json
+C:\Users\Entr\source\repos\Практическая1\Практическая1\bin\Debug\net6.0\Практическая1.runtimeconfig.json
+C:\Users\Entr\source\repos\Практическая1\Практическая1\bin\Debug\net6.0\Практическая1.dll
+C:\Users\Entr\source\repos\Практическая1\Практическая1\bin\Debug\net6.0\Практическая1.pdb
+C:\Users\Entr\source\repos\Практическая1\Практическая1\obj\Debug\net6.0\Практическая1.csproj.AssemblyReference.cache
+C:\Users\Entr\source\repos\Практическая1\Практическая1\obj\Debug\net6.0\Практическая1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Entr\source\repos\Практическая1\Практическая1\obj\Debug\net6.0\Практическая1.AssemblyInfoInputs.cache
+C:\Users\Entr\source\repos\Практическая1\Практическая1\obj\Debug\net6.0\Практическая1.AssemblyInfo.cs
+C:\Users\Entr\source\repos\Практическая1\Практическая1\obj\Debug\net6.0\Практическая1.csproj.CoreCompileInputs.cache
+C:\Users\Entr\source\repos\Практическая1\Практическая1\obj\Debug\net6.0\Практическая1.dll
+C:\Users\Entr\source\repos\Практическая1\Практическая1\obj\Debug\net6.0\refint\Практическая1.dll
+C:\Users\Entr\source\repos\Практическая1\Практическая1\obj\Debug\net6.0\Практическая1.pdb
+C:\Users\Entr\source\repos\Практическая1\Практическая1\obj\Debug\net6.0\Практическая1.genruntimeconfig.cache
+C:\Users\Entr\source\repos\Практическая1\Практическая1\obj\Debug\net6.0\ref\Практическая1.dll
